@@ -1,0 +1,9 @@
+.git
+.github
+.metadata
+**/node_modules
+**/dist
+**/target
+**/.idea
+**/.vscode
+*.md
